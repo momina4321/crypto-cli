@@ -4,12 +4,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+To run the application:
+
+### npm install
+
+Installs the necessary libraries to run the project.
+
+### `cd crypto-cli/src/backend`
+### `node server.js`
+
+Start the server on port 3000
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
