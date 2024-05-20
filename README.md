@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Video Title](http://img.youtube.com/vi/0raI7uWXUWI/0.jpg)](http://www.youtube.com/watch?v=0raI7uWXUWI)
-
 
 ## Available Scripts
 
